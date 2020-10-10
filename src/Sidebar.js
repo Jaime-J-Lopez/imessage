@@ -23,6 +23,9 @@ function Sidebar() {
 
             <div className="class sidebar_chats">
                 <SidebarChat />
+                <SidebarChat />
+                <SidebarChat />
+                <SidebarChat />
             </div>
         </div>
     );
