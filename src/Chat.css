@@ -35,6 +35,9 @@
 .chat_input > form {
     flex: 1;
 }
+.chat_messages {
+    flex: 1;
+}
 
 .chat_input > form > input {
     width: 98%;
@@ -42,4 +45,8 @@
     border: 1px solid lightgray;
     border-radius: 999px;
     padding: 5px;
+}
+
+.chat_input > form > button {
+    display: none;
 }
